@@ -6,8 +6,8 @@
 // Definiuje ona kilka typów, mark oraz funkcje do przeprowadzania róznych operacji
 
 int main()
-// Zadeklarowanie funkcji <<main>>, któa zwróci wartosc calkowit¹a
-// To szkielet calego programu, instrukcje wykonaja sie tak, jak zostaly zapisane w funkcji << int main()>>
+// Zadeklarowanie funkcji <<main>>, któa zwróci wartosc calkowita
+// To szkielet calego programu, instrukcje wykonaja sie tak, jak zostaly zapisane w funkcji <<int main()>>
 {
     int number;
     // Zadeklarowanie zmiennej typu calkowitego o nazwie <<number>>

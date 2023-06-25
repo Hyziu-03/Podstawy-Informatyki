@@ -33,17 +33,11 @@ int main()
         scanf("%i", &guess);
 
         if(guess == random_number)
-        {
             printf("Brawo, udalo ci sie zgadnac\n\n");
-        }
         else if(guess > random_number)
-        {
             printf("Ta liczba jest za duza\n\n");
-        }
         else
-        {
             printf("Ta liczba jest za mala\n\n");
-        }
 
         attempts++;
     }
